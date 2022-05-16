@@ -6,19 +6,23 @@
 
 .container{
   width: 100%;
-  height:100vh;
+  height: 100vh;
   display: flex;
   justify-content:center;
   align-items: center;;
 }
 
 body{
-  background-image: url(city.jpg);
+  background-color: #232946;
   background-size: cover;
   background-position: center;
-  heigth: 100vh;
+  height: 100vh;
 }
+h1 {
+  position: relative;
+  display: flex;
 
+}
 .clock{
   width: 35rem;
   height: 35rem;
